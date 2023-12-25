@@ -15,7 +15,7 @@ public class Main {
         }
     } while(i % 2 == 0 );
 
-        
-        System.out.println(total);
+
+        System.out.println("The sum of the numbers that can be divisible by 4 : "+ total);
     }
 }
